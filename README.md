@@ -23,10 +23,10 @@ Solix Depin BOT
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/Solix-BOT.git
+   git clone https://github.com/herisukses/solix.git
    ```
    ```bash
-   cd Solix-BOT
+   cd solix
    ```
 
 2. **Install Requirements:**
